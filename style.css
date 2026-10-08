@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+  text-align: center;
+  margin: 0;
+  padding: 40px 20px;
+}
+
+h1 {
+  color: #2c5aa0;
+}
+
+p {
+  font-size: 18px;
+}
+
+.datos {
+  background-color: #ffffff;
+  border: 1px solid #ccc;
+  max-width: 400px;
+  margin: 20px auto;
+  padding: 15px;
+}
+
+.boton {
+  display: inline-block;
+  background-color: #2c5aa0;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.boton:hover {
+  background-color: #1e3f73;
+}
